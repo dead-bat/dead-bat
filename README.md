@@ -8,16 +8,16 @@ Since this is my personal GitHub profile, I can only assume you're here because 
 And, finally, if you're interested in roping me into a new project, or offering me a job, or simply getting a cup of coffee, please feel free to reach out. I generally welcome new challenges as learning experiences, and am well into my second decade as a professional geek. Some of the technologies I am particularly proficient with inclue:
 
 - Python
--- Web development with Flask
--- Data analytics and modeling
+  - Web development with Flask
+  - Data analytics and modeling
 - Ruby
 - Automation
--- Workflow, data, and process automation
--- Workato
--- n8n
+  - Workflow, data, and process automation
+  - Workato
+  - n8n
 - Web development
--- HTML/CSS and a little JavaScript
--- WordPress CMS
+  - HTML/CSS and a little JavaScript
+  - WordPress CMS
 
 ## Wish List
 
